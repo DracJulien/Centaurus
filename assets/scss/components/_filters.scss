@@ -1,4 +1,4 @@
-/*=============== FILTERS TABS===============*/
+/*=============== FILTERS TABS ===============*/
 .filters{
     &__content{
         margin: 2rem 0 2.5rem;
@@ -22,7 +22,6 @@
         cursor: pointer;
         background-color: transparent;
         transition: .3s;
-
         &:hover{
             background-color: var(--body-color);
         }
