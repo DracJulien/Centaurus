@@ -1,2 +1,2 @@
 # Centaurus
-Curriculum Vitae
+Web Portfolio
